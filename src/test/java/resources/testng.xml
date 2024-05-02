@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Suite">
+    <test name="Discover Card Test Suite">
+        <classes>
+            <class name="com.corserv.tests.CreditCardApplicationTest"/>
+        </classes>
+    </test>
+</suite>
